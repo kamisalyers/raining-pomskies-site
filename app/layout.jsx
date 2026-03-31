@@ -2,7 +2,7 @@ import './globals.css'
 
 export const metadata = {
   title: 'Raining Pomskies',
-  description: 'Quality Pomsky Puppies Raised in the Heart of Oklahoma',
+  description: 'Quality pomsky puppies raised in the heart of Oklahoma',
 }
 
 export default function RootLayout({ children }) {
